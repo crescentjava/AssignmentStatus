@@ -1,0 +1,8 @@
+1) EC2
+   execute Java helloworld example
+   
+2) S3
+   upload a file
+   upload a static web site
+   
+3) Deploy sample app using Elastic Beanstalk
